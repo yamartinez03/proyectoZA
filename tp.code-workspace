@@ -1,0 +1,70 @@
+{
+  "folders": [
+    {
+      "name": "kernel",
+      "path": "kernel"
+    },
+    {
+      "name": "cpu",
+      "path": "cpu"
+    },
+    {
+      "name": "memoria",
+      "path": "memoria"
+    },
+    {
+      "name": "filesystem",
+      "path": "filesystem"
+    },
+    {
+      "name": "utils",
+      "path": "utils"
+    },
+    {
+      "name": "the-last-of-c-pruebas-main"
+      "path": "the-last-of-c-pruebas-main"
+    },
+    {
+      "name": "mount_dir"
+      "path": "/home/utnso/mount_dir"
+    }
+  ],
+  "settings": {
+    "debug.onTaskErrors": "abort",
+    "files.associations": {
+      "*.h": "c",
+      "cstdlib": "c",
+      "array": "c",
+      "string_view": "c",
+      "initializer_list": "c",
+      "utility": "c",
+      "atomic": "c",
+      "bit": "c",
+      "*.tcc": "c",
+      "cmath": "c",
+      "compare": "c",
+      "concepts": "c",
+      "cstddef": "c",
+      "deque": "c",
+      "string": "c",
+      "unordered_map": "c",
+      "vector": "c",
+      "exception": "c",
+      "functional": "c",
+      "iterator": "c",
+      "memory": "c",
+      "memory_resource": "c",
+      "numeric": "c",
+      "system_error": "c",
+      "type_traits": "c",
+      "algorithm": "c",
+      "random": "c",
+      "limits": "c",
+      "ostream": "c",
+      "streambuf": "c",
+      "tuple": "c",
+      "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+  }
+}

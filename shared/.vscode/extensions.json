@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "GitHub.copilot",
+    "mhutchie.git-graph",
+    "ms-vscode.cmake-tools",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-vscode.cpptools-themes",
+    "ms-vscode.makefile-tools",
+    "twxs.cmake",
+    "waderyan.gitblame"
+  ]
+}

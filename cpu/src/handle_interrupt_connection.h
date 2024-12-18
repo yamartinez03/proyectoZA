@@ -4,7 +4,7 @@
 #include "globals.h"
 
 
-void t_connection();
+void handle_interrupt_connection();
 
 
 void handle_interrupt(void * p_void);

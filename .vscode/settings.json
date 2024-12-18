@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "pthread.h": "c"
+        "sockets.h": "c",
+        "process.h": "c",
+        "config.h": "c",
+        "utils.h": "c",
+        "operation_handler.h": "c",
+        "handle_connection.h": "c",
+        "list.h": "c",
+        "log.h": "c",
+        "memoria.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "serialization.h": "c"
+    }
+}
